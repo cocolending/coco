@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["vote"],{"29c8":function(t,e,n){"use strict";n.r(e);var s=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"container"},[t._v("Apps Vote")])},c=[],a=n("2877"),l={},o=Object(a["a"])(l,s,c,!1,null,null,null);e["default"]=o.exports}}]);
+//# sourceMappingURL=vote.3bf2864d.js.map
