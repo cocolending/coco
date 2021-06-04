@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["governance"],{"44a9":function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",{staticClass:"container"},[n._v("Governance")])},c=[],r=t("2877"),s={},l=Object(r["a"])(s,a,c,!1,null,null,null);e["default"]=l.exports}}]);
-//# sourceMappingURL=governance.090ebc18.js.map
+//# sourceMappingURL=governance.fd2b56b8.js.map
